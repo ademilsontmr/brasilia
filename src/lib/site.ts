@@ -13,6 +13,28 @@ export const DOMAIN = "cassinodesalinas.com.br";
 /** Domínio à venda */
 export const DOMAINS_FOR_SALE = ["cassinodesalinas.com.br"] as const;
 
+/** Rede de domínios premium relacionados (exibidos acima do footer) */
+export const PREMIUM_NETWORK_DOMAINS = [
+  "cassinodegramado.com.br",
+  "cassinocamposdojordao.com.br",
+  "cassinocopacabana.com",
+  "cassinodesaopaulo.com.br",
+  "cassinodebrasilia.com.br",
+  "cassinodesalinas.com.br",
+  "cassinobh.com.br",
+  "cassinoportoalegre.com",
+] as const;
+
+function normalizeDomain(domain: string): string {
+  return domain.toLowerCase().replace(/^www\./, "");
+}
+
+/** Domínios da rede, excluindo o site atual */
+export function getOtherPremiumDomains(currentDomain: string = DOMAIN): string[] {
+  const current = normalizeDomain(currentDomain);
+  return PREMIUM_NETWORK_DOMAINS.filter((domain) => normalizeDomain(domain) !== current);
+}
+
 /** Lista em português: "a, b e c" */
 export function formatDomainsListPt(
   domains: readonly string[] = DOMAINS_FOR_SALE,
