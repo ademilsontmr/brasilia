@@ -440,7 +440,3 @@ function FaqSection() {
     </section>
   );
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 7861498 (Adiciona seção de outros domínios premium acima do footer.)
