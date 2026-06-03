@@ -17,7 +17,6 @@ import {
   ArrowRight,
 } from "lucide-react";
 
-import { DomainHero } from "@/components/domain-hero";
 import { SiteFooter, SiteHeader } from "@/components/site-chrome";
 import { getSortedBlogPosts } from "@/lib/blog-posts";
 import { getHomeHeadMeta } from "@/lib/seo";
@@ -441,4 +440,7 @@ function FaqSection() {
     </section>
   );
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7861498 (Adiciona seção de outros domínios premium acima do footer.)

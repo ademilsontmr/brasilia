@@ -105,26 +105,26 @@ export function SiteFooter() {
     <>
       <OtherPremiumDomainsSection />
       <footer className="border-t border-border/40 py-10">
-      <div className="container mx-auto max-w-6xl px-6 flex flex-col md:flex-row gap-4 items-center justify-between text-sm text-muted-foreground">
-        <div className="flex items-center gap-2">
-          <Crown className="h-4 w-4 text-primary" />
-          <span>© {new Date().getFullYear()} {DOMAIN} — Domínio Premium à Venda</span>
+        <div className="container mx-auto max-w-6xl px-6 flex flex-col md:flex-row gap-4 items-center justify-between text-sm text-muted-foreground">
+          <div className="flex items-center gap-2">
+            <Crown className="h-4 w-4 text-primary" />
+            <span>© {new Date().getFullYear()} {DOMAIN} — Domínio Premium à Venda</span>
+          </div>
+          <nav className="flex flex-wrap justify-center gap-5" aria-label="Links do rodapé">
+            <Link to="/blog" className="hover:text-primary transition">Blog</Link>
+            <a href="/#dominio" className="hover:text-primary transition">Domínio</a>
+            <a
+              href={FORM_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-primary transition"
+            >
+              Contato
+            </a>
+            <a href="/#faq" className="hover:text-primary transition">FAQ</a>
+          </nav>
         </div>
-        <nav className="flex flex-wrap justify-center gap-5" aria-label="Links do rodapé">
-          <Link to="/blog" className="hover:text-primary transition">Blog</Link>
-          <a href="/#dominio" className="hover:text-primary transition">Domínio</a>
-          <a
-            href={FORM_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-primary transition"
-          >
-            Contato
-          </a>
-          <a href="/#faq" className="hover:text-primary transition">FAQ</a>
-        </nav>
-      </div>
-    </footer>
+      </footer>
     </>
   );
 }
