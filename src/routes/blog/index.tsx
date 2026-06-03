@@ -33,9 +33,9 @@ function BlogIndexPage() {
           </h1>
           <p className="mt-5 text-muted-foreground text-lg leading-relaxed">
             Artigos sobre a importância de <strong>cassinos regulados</strong> em{" "}
-            <strong>Salinas</strong> e no Brasil — geração de emprego formal, renda municipal,
+            <strong>Brasília</strong> e no Brasil — geração de emprego formal, renda municipal,
             moderação responsável, resorts integrados e turismo de qualidade na{" "}
-            <strong>Alagoas</strong>.
+            <strong>Distrito Federal</strong>.
           </p>
         </header>
 
@@ -87,7 +87,7 @@ function BlogIndexPage() {
         <aside className="mt-16 rounded-xl border border-gold/40 bg-card/60 p-8 text-center">
           <h2 className="font-serif text-2xl mb-3">Interessado no domínio?</h2>
           <p className="text-muted-foreground mb-6">
-            O domínio <strong>cassinodesalinas.com.br</strong> está à venda.
+            O domínio <strong>cassinodebrasilia.com.br</strong> está à venda.
           </p>
           <a
             href={FORM_URL}

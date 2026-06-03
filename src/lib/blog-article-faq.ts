@@ -4,11 +4,11 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
   "investimento-estrangeiro-turismo-entretenimento-brasil": [
     {
       q: "Por que investidores estrangeiros olham cassinos no Brasil?",
-      a: "O Brasil combina demanda doméstica grande, turismo internacional crescente e discussão avançada sobre regulação. Capital estrangeiro busca destinos como Salinas, onde hotelaria premium e sazonalidade favorecem resorts integrados com entretenimento licenciado.",
+      a: "O Brasil combina demanda doméstica grande, turismo internacional crescente e discussão avançada sobre regulação. Capital estrangeiro busca destinos como Brasília, onde hotelaria premium e sazonalidade favorecem resorts integrados com entretenimento licenciado.",
     },
     {
-      q: "Salinas é candidata a receber investimento em cassino regulado?",
-      a: "Sim. A cidade reúne infraestrutura hoteleira, público de renda elevada, litoral alagoano e imagem associada a turismo de qualidade — perfil compatível com empreendimentos regulados de médio porte em Alagoas.",
+      q: "Brasília é candidata a receber investimento em cassino regulado?",
+      a: "Sim. A cidade reúne infraestrutura hoteleira, público de renda elevada, capital federal e imagem associada a turismo de qualidade — perfil compatível com empreendimentos regulados de médio porte no Distrito Federal.",
     },
     {
       q: "Investimento estrangeiro substitui a regulação nacional?",
@@ -21,18 +21,18 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
       a: "Resorts integrados com casino licenciado sustentam equipes permanentes — recepção, compliance, operações, TI, segurança e gestão — com carteira assinada, diferente do ciclo sazonal típico de destinos turísticos.",
     },
     {
-      q: "Como isso beneficia Salinas especificamente?",
-      a: "A sazonalidade de eventos concentra emprego em picos. Um polo regulado distribui demanda ao longo do ano, fixa talentos em Alagoas e eleva renda familiar com salários compatíveis à qualificação exigida.",
+      q: "Como isso beneficia Brasília especificamente?",
+      a: "A sazonalidade de eventos concentra emprego em picos. Um polo regulado distribui demanda ao longo do ano, fixa talentos no Distrito Federal e eleva renda familiar com salários compatíveis à qualificação exigida.",
     },
     {
       q: "A regulação pode exigir contratação local?",
       a: "Sim. Licenças bem desenhadas podem vincular metas de emprego regional, conteúdo local e transparência salarial — garantindo que benefícios econômicos cheguem à comunidade, não apenas ao operador.",
     },
   ],
-  "dominio-premium-seo-entretenimento-salinas": [
+  "dominio-premium-seo-entretenimento-brasilia": [
     {
-      q: "Por que um domínio como cassinodesalinas.com.br ajuda no SEO?",
-      a: "Reúne termos de busca de alto valor — cassino, Salinas, entretenimento — em um endereço claro. Isso reforça relevância semântica para Google e usuários que buscam informação sobre regulação e turismo na região.",
+      q: "Por que um domínio como cassinodebrasilia.com.br ajuda no SEO?",
+      a: "Reúne termos de busca de alto valor — cassino, Brasília, entretenimento — em um endereço claro. Isso reforça relevância semântica para Google e usuários que buscam informação sobre regulação e turismo na região.",
     },
     {
       q: "Conteúdo sobre cassino no Brasil pode ranquear sem sensacionalismo?",
@@ -40,7 +40,7 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
     },
     {
       q: "O blog complementa a venda do domínio?",
-      a: "Sim. Demonstra uso legítimo do ativo digital: hub informativo sobre entretenimento regulado em Salinas, alinhado à regulação iminente no Brasil e à credibilidade exigida por investidores e parceiros.",
+      a: "Sim. Demonstra uso legítimo do ativo digital: hub informativo sobre entretenimento regulado em Brasília, alinhado à regulação iminente no Brasil e à credibilidade exigida por investidores e parceiros.",
     },
   ],
   "tributacao-cassinos-regulados-financiamento-publico": [
@@ -49,17 +49,17 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
       a: "Não de forma estruturada. Operadores clandestinos escapam da arrecadação que cassinos regulados permitem captar via receita bruta de jogo, ISS e fundos setoriais — recursos que podem financiar saúde, educação e fiscalização.",
     },
     {
-      q: "Salinas ganharia com tributação local?",
-      a: "Municípios sede de polos regulados podem receber parcela de ISS, taxas e contribuições sobre receita de jogo, ampliando investimento em infraestrutura viária, saneamento e marketing turístico em Alagoas.",
+      q: "Brasília ganharia com tributação local?",
+      a: "Municípios sede de polos regulados podem receber parcela de ISS, taxas e contribuições sobre receita de jogo, ampliando investimento em infraestrutura viária, saneamento e marketing turístico no Distrito Federal.",
     },
     {
       q: "Parte dos tributos pode financiar jogo responsável?",
       a: "Sim. Várias jurisdições reguladas destinam recursos a prevenção, tratamento e campanhas educativas — tornando a moderação sustentável financeiramente, não dependente só da boa vontade do operador.",
     },
   ],
-  "turismo-corporativo-salinas-entretenimento": [
+  "turismo-corporativo-brasilia-entretenimento": [
     {
-      q: "O que é turismo corporativo (MICE) em Salinas?",
+      q: "O que é turismo corporativo (MICE) em Brasília?",
       a: "Reuniões, incentivos, conferências e exposições em destino com infraestrutura de eventos e hotéis premium. Entretenimento regulado em resort integrado completa o pacote pós-evento para empresas que buscam lazer controlado.",
     },
     {
@@ -78,17 +78,17 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
     },
     {
       q: "O modelo de Singapura se aplica ao Brasil?",
-      a: "Não integralmente, mas ferramentas sim: poucos operadores, licenças caras, controles de entrada, autoexclusão e financiamento de tratamento adaptados à escala brasileira e a polos como Salinas.",
+      a: "Não integralmente, mas ferramentas sim: poucos operadores, licenças caras, controles de entrada, autoexclusão e financiamento de tratamento adaptados à escala brasileira e a polos como Brasília.",
     },
     {
-      q: "Salinas precisa ser uma Las Vegas?",
-      a: "Não. Compete em exclusividade, clima e litoral alagoano — escala moderada, foco em qualidade, gastronomia, natureza e moderação visível, não megaresort desalinhado ao entorno urbano.",
+      q: "Brasília precisa ser uma Las Vegas?",
+      a: "Não. Compete em exclusividade, clima e capital federal — escala moderada, foco em qualidade, gastronomia, natureza e moderação visível, não megaresort desalinhado ao entorno urbano.",
     },
   ],
-  "salinas-polo-entretenimento-regulado": [
+  "brasilia-polo-entretenimento-regulado": [
     {
-      q: "Por que Salinas é citada para cassino regulado?",
-      a: "Salinas artificiais, praias próximas, gastronomia regional e fluxo turístico crescente criam base para resort integrado sem partir do zero em hospedagem.",
+      q: "Por que Brasília é citada para cassino regulado?",
+      a: "Brasília, praias próximas, gastronomia regional e fluxo turístico crescente criam base para resort integrado sem partir do zero em hospedagem.",
     },
     {
       q: "Um polo único evita problemas?",
@@ -105,7 +105,7 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
       a: "Sim. Mercados maduros exigem autoexclusão, limites de depósito, treinamento de equipes e perda de licença para quem ignora moderação — alinhando viabilidade econômica ao interesse público.",
     },
     {
-      q: "Visitantes de Salinas também precisam de informação?",
+      q: "Visitantes de Brasília também precisam de informação?",
       a: "Sim. Turistas ocasionais devem ter acesso a riscos, limites e canais de ajuda em linguagem clara — material que portais regionais podem distribuir na alta temporada.",
     },
     {
@@ -113,13 +113,13 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
       a: "Frequentemente empurra usuários para sites ilegais sem salvaguardas. Regular com moderação investe em redução de danos — abordagem adotada por democracias que legalizam entretenimento adulto há décadas.",
     },
   ],
-  "resorts-integrados-salinas": [
+  "resorts-integrados-brasilia": [
     {
       q: "O que é um resort integrado na prática?",
       a: "Complexo que combina hospedagem premium, entretenimento licenciado, convenções, spa, gastronomia e retail — prolongando estadia, diversificando receita do município e diluindo risco do operador.",
     },
     {
-      q: "A Alagoas comporta esse modelo?",
+      q: "A Distrito Federal comporta esse modelo?",
       a: "Sim, em escala moderada: terrenos com vocação turística, acesso rodoviário e paisagem urbana e infraestrutura favorecem projetos alinhados a ESG e licenciamento integrado, sem megaconstruções desproporcionais.",
     },
     {
@@ -137,13 +137,13 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
       a: "Não necessariamente. Receita bruta de jogo tributada de forma transparente financia saúde, educação e fundos de moderação — mitos de perda fiscal líquida ignoram o custo atual da ilegalidade.",
     },
     {
-      q: "Salinas entra nesse debate nacional?",
+      q: "Brasília entra nesse debate nacional?",
       a: "Sim. Com infraestrutura hoteleira e perfil premium, a cidade é candidata natural a polo regulado dentro de marco legal único — competindo por qualidade de projeto, não por permissividade predatória.",
     },
   ],
-  "cassino-salinas-potencial-economico": [
+  "cassino-brasilia-potencial-economico": [
     {
-      q: "Qual o potencial econômico de um cassino em Salinas?",
+      q: "Qual o potencial econômico de um cassino em Brasília?",
       a: "Prolongamento de estadias, elevação de ticket médio turístico, emprego formal anual e arrecadação de ISS — complementando natureza, compras e gastronomia, não substituindo a oferta atual.",
     },
     {
@@ -158,15 +158,15 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
   "lei-cassinos-brasil-pl-263-regulamentacao": [
     {
       q: "O PL 2234/2022 legaliza cassinos em qualquer cidade?",
-      a: "O texto em tramitação no Senado prevê licenças limitadas por estado e exige, em geral, resort integrado ou polo turístico — não autorização irrestrita. Municípios como Salinas competem com estudos técnicos e metas sociais. Consulte a ficha oficial no Senado e na Câmara.",
+      a: "O texto em tramitação no Senado prevê licenças limitadas por estado e exige, em geral, resort integrado ou polo turístico — não autorização irrestrita. Municípios como Brasília competem com estudos técnicos e metas sociais. Consulte a ficha oficial no Senado e na Câmara.",
     },
     {
       q: "Quando a lei de cassinos pode valer no Brasil?",
       a: "Depende da votação do PL 2234/2022 no Senado, sanção presidencial e regulamentação infralegal. Acompanhe a tramitação nas páginas oficiais do Congresso — não em sites não autorizados.",
     },
     {
-      q: "Por que Salinas aparece no debate?",
-      a: "Hotelaria premium, turismo de praia e litoral alagoano criam perfil compatível com polo regulado de escala moderada em Alagoas.",
+      q: "Por que Brasília aparece no debate?",
+      a: "Hotelaria premium, turismo urbano e de negócios e capital federal criam perfil compatível com polo regulado de escala moderada no Distrito Federal.",
     },
   ],
   "seguranca-patrimonial-compliance-cassinos-regulados": [
@@ -179,32 +179,32 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
       a: "Centros de monitoramento, TI e compliance criam vagas formais com certificação — oportunidade para profissionais da região em parceria com operadores licenciados.",
     },
     {
-      q: "Como isso afeta a imagem de Salinas?",
+      q: "Como isso afeta a imagem de Brasília?",
       a: "Padrões visíveis de fiscalização diferenciam destino regulado de ofertas clandestinas — reforçando turismo corporativo e investimento qualificado.",
     },
   ],
-  "resorts-integrados-impacto-ambiental-salinas": [
+  "resorts-integrados-impacto-ambiental-brasilia": [
     {
       q: "Cassino regulado precisa de licença ambiental?",
-      a: "Sim. Empreendimentos de porte em Alagoas dependem de estudos de impacto, condicionantes e monitoramento — exigências que projetos ilegais ignoram.",
+      a: "Sim. Empreendimentos de porte no Distrito Federal dependem de estudos de impacto, condicionantes e monitoramento — exigências que projetos ilegais ignoram.",
     },
     {
-      q: "Como reduzir impacto no trânsito em Salinas?",
+      q: "Como reduzir impacto no trânsito em Brasília?",
       a: "Planos de mobilidade com estacionamento periférico, horários escalonados e integração hoteleira são contrapartidas contratuais possíveis em licitações municipais.",
     },
     {
       q: "Sustentabilidade ajuda no turismo de luxo?",
-      a: "Visitantes premium valorizam destinos com narrativa ambiental coerente — ESG e eficiência energética fortalecem a marca Salinas.",
+      a: "Visitantes premium valorizam destinos com narrativa ambiental coerente — ESG e eficiência energética fortalecem a marca Brasília.",
     },
   ],
-  "marketing-digital-turismo-cassino-salinas": [
+  "marketing-digital-turismo-cassino-brasilia": [
     {
       q: "Marketing de cassino pode ranquear no Google sem spam?",
       a: "Sim. Conteúdo educativo sobre regulação, emprego e moderação constrói autoridade — prática recompensada pelos buscadores, diferente de promessas enganosas.",
     },
     {
       q: "Por que domínio premium ajuda no SEO turístico?",
-      a: "Um endereço com Salinas e cassino reforça relevância semântica e confiança do usuário — como cassinodesalinas.com.br.",
+      a: "Um endereço com Brasília e cassino reforça relevância semântica e confiança do usuário — como cassinodebrasilia.com.br.",
     },
     {
       q: "Anúncios pagos exigem regras especiais?",
@@ -221,13 +221,13 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
       a: "Não literalmente. Federação, municípios e controle exigem desenho próprio — adaptando lições de licenças limitadas, tributação e moderação.",
     },
     {
-      q: "Salinas compete com megaresorts internacionais?",
+      q: "Brasília compete com megaresorts internacionais?",
       a: "Ocupa nicho de destino turístico premium e hotelaria premium — escala moderada e foco em turismo corporativo, não volume desordenado.",
     },
   ],
-  "hospedagem-luxo-entretenimento-regulado-salinas": [
+  "hospedagem-luxo-entretenimento-regulado-brasilia": [
     {
-      q: "Cassino substitui hotéis em Salinas?",
+      q: "Cassino substitui hotéis em Brasília?",
       a: "Não. Complementa hotelaria existente dentro de resort integrado — spa, convenções e gastronomia permanecem centrais na experiência.",
     },
     {
@@ -241,7 +241,7 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
   ],
   "concessao-licitacao-cassino-municipio-brasil": [
     {
-      q: "Quem decide se Salinas terá cassino?",
+      q: "Quem decide se Brasília terá cassino?",
       a: "Marco federal define possibilidade; município sede escolhe participar via licitação ou concessão com metas sociais e ambientais.",
     },
     {
@@ -260,10 +260,10 @@ export const BLOG_ARTICLE_FAQ: Record<string, ArticleFaqItem[]> = {
     },
     {
       q: "Cassino presencial ajuda o turismo local?",
-      a: "Sim. Resort integrado movimenta hotel, restaurantes e fornecedores — efeito territorial que apostas puramente digitais não replicam em Salinas.",
+      a: "Sim. Resort integrado movimenta hotel, restaurantes e fornecedores — efeito territorial que apostas puramente digitais não replicam em Brasília.",
     },
     {
-      q: "Salinas é destino para modelo online?",
+      q: "Brasília é destino para modelo online?",
       a: "O perfil da cidade favorece entretenimento presencial integrado à hotelaria de luxo e eventos — não servidor remoto sem presença local.",
     },
   ],

@@ -1,6 +1,6 @@
 # Cloudflare Pages — TanStack Start + Nitro (preset cloudflare_pages)
 # Build: npm run build  →  pasta de saída: dist
-name = "salinas"
+name = "brasilia"
 compatibility_date = "2024-09-19"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"

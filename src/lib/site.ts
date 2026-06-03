@@ -1,17 +1,17 @@
 export const SITE_URL =
-  import.meta.env.VITE_SITE_URL ?? "https://cassinodesalinas.com.br";
+  import.meta.env.VITE_SITE_URL ?? "https://cassinodebrasilia.com.br";
 
-export const SITE_NAME = "Cassino de Salinas — Domínio Premium à Venda";
+export const SITE_NAME = "Cassino de Brasília — Domínio Premium à Venda";
 
-export const CONTACT_EMAIL = "contato@cassinodesalinas.com.br";
+export const CONTACT_EMAIL = "contato@cassinodebrasilia.com.br";
 
 export const FORM_URL = "https://forms.gle/aCxqHaa7pMHu83HH7";
 
 /** Domínio principal do site (canônico) */
-export const DOMAIN = "cassinodesalinas.com.br";
+export const DOMAIN = "cassinodebrasilia.com.br";
 
 /** Domínio à venda */
-export const DOMAINS_FOR_SALE = ["cassinodesalinas.com.br"] as const;
+export const DOMAINS_FOR_SALE = ["cassinodebrasilia.com.br"] as const;
 
 /** Rede de domínios premium relacionados (exibidos acima do footer) */
 export const PREMIUM_NETWORK_DOMAINS = [

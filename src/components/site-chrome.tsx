@@ -22,7 +22,7 @@ export function SiteHeader() {
         <Link to="/" hash="top" className="flex items-center gap-2 group">
           <Crown className="h-5 w-5 text-primary" />
           <span className="font-serif text-lg tracking-tight">
-            Cassino<span className="text-gradient-gold"> de Salinas</span>
+            Cassino<span className="text-gradient-gold"> de Brasília</span>
           </span>
         </Link>
         <nav className="hidden md:flex items-center gap-7 text-sm text-muted-foreground" aria-label="Navegação principal">

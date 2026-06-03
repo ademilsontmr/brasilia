@@ -15,12 +15,12 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     {
       listItems: [
         "Operadores internacionais mapeiam o Brasil — contexto legislativo no [[Senado Federal|gov:senado]] e dados do [[Ministério do Turismo|gov:turismo]]",
-        "Salinas combina turismo urbano e de negócios, renda elevada e vocação para [[resorts integrados|resorts-integrados-salinas]]",
+        "Brasília combina turismo urbano e de negócios, renda elevada e vocação para [[resorts integrados|resorts-integrados-brasilia]]",
         "Regulação clara reduz risco jurídico e viabiliza parcerias público-privadas com metas de [[emprego formal|empregos-formais-hotelaria-lazer-brasil]]",
       ],
       relatedLinks: [
         { label: "Lições de Las Vegas e Singapura", slug: "licoes-las-vegas-singapura-regulacao-brasil" },
-        { label: "Salinas como polo regulado", slug: "salinas-polo-entretenimento-regulado" },
+        { label: "Brasília como polo regulado", slug: "brasilia-polo-entretenimento-regulado" },
       ],
       highlights: [
         "Capital paciente busca destinos com demanda doméstica e fluxo internacional",
@@ -36,17 +36,17 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       orderedItems: [
         "Operador licenciado implementa programas de capacitação reconhecidos globalmente",
         "Mão de obra local ascende em carreiras estáveis fora da sazonalidade agrícola",
-        "Certificações elevam qualificação e fixam talentos na [[Alagoas|resorts-integrados-salinas]]",
+        "Certificações elevam qualificação e fixam talentos na [[Distrito Federal|resorts-integrados-brasilia]]",
       ],
       relatedLinks: [
         { label: "Empregos formais na hotelaria", slug: "empregos-formais-hotelaria-lazer-brasil" },
-        { label: "Resorts integrados na região", slug: "resorts-integrados-salinas" },
+        { label: "Resorts integrados na região", slug: "resorts-integrados-brasilia" },
       ],
     },
     {
       listItems: [
-        "Polo regulado em Salinas pode ser vitrine nacional de licenciamento transparente",
-        "Portais como [[cassinodesalinas.com.br|/]] educam sobre benefícios e [[moderação|moderacao-jogo-responsavel-cassinos]]",
+        "Polo regulado em Brasília pode ser vitrine nacional de licenciamento transparente",
+        "Portais como [[cassinodebrasilia.com.br|/]] educam sobre benefícios e [[moderação|moderacao-jogo-responsavel-cassinos]]",
         "Sem marco legal, o capital evita o país; com regras, o Brasil captura receita e tributos",
       ],
       highlights: [
@@ -54,7 +54,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Fim da exportação de receita para cassinos clandestinos ou destinos no exterior",
       ],
       relatedLinks: [
-        { label: "Potencial econômico em Salinas", slug: "cassino-salinas-potencial-economico" },
+        { label: "Potencial econômico em Brasília", slug: "cassino-brasilia-potencial-economico" },
         { label: "Cassinos no Brasil: emprego e renda", slug: "cassinos-brasil-emprego-renda" },
       ],
     },
@@ -65,10 +65,10 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "Resort integrado distribui demanda ao longo do ano — casino, convenções, spa e gastronomia",
         "Funções permanentes: recepcionista, dealer, compliance, gerente de operações",
-        "Vagas formais alinhadas ao [[Ministério do Trabalho|gov:trabalho]]; trainee reduz migração da [[Alagoas|resorts-integrados-salinas]]",
+        "Vagas formais alinhadas ao [[Ministério do Trabalho|gov:trabalho]]; trainee reduz migração da [[Distrito Federal|resorts-integrados-brasilia]]",
       ],
       relatedLinks: [
-        { label: "Resorts integrados", slug: "resorts-integrados-salinas" },
+        { label: "Resorts integrados", slug: "resorts-integrados-brasilia" },
         { label: "Emprego e renda no Brasil", slug: "cassinos-brasil-emprego-renda" },
       ],
       highlights: [
@@ -80,7 +80,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "INSS, FGTS e férias convertem lazer legal em arrecadação para saúde e educação",
         "Licenças podem exigir metas de contratação local e transparência salarial",
-        "Salários compatíveis com qualificação são condição em [[Salinas|salinas-polo-entretenimento-regulado]]",
+        "Salários compatíveis com qualificação são condição em [[Brasília|brasilia-polo-entretenimento-regulado]]",
       ],
       orderedItems: [
         "Operador obtém licença vinculada a metas de emprego local",
@@ -89,7 +89,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Tributação e financiamento público", slug: "tributacao-cassinos-regulados-financiamento-publico" },
-        { label: "Polo de entretenimento em Salinas", slug: "salinas-polo-entretenimento-regulado" },
+        { label: "Polo de entretenimento em Brasília", slug: "brasilia-polo-entretenimento-regulado" },
       ],
     },
     {
@@ -99,7 +99,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Informação clara combate mitos de emprego precário ou ilegal",
       ],
       highlights: [
-        "Ecossistema digital em [[cassinodesalinas.com.br|/]] orienta candidatos sobre requisitos e direitos",
+        "Ecossistema digital em [[cassinodebrasilia.com.br|/]] orienta candidatos sobre requisitos e direitos",
         "Capacitação acelera maturidade do setor no Brasil",
       ],
       relatedLinks: [
@@ -109,16 +109,16 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     },
   ],
 
-  "dominio-premium-seo-entretenimento-salinas": [
+  "dominio-premium-seo-entretenimento-brasilia": [
     {
       listItems: [
         "Domínio geográfico sinaliza credibilidade — alinhe conteúdo a dados do [[IBGE turismo|gov:ibgeTurismo]] e [[Ministério do Turismo|gov:turismo]]",
-        "[[cassinodesalinas.com.br|/]] ancora comunicação sobre entretenimento em [[Salinas|salinas-polo-entretenimento-regulado]]",
+        "[[cassinodebrasilia.com.br|/]] ancora comunicação sobre entretenimento em [[Brasília|brasilia-polo-entretenimento-regulado]]",
         "Transparência online é requisito em mercados regulados e due diligence de investidores",
       ],
       relatedLinks: [
-        { label: "Salinas como polo regulado", slug: "salinas-polo-entretenimento-regulado" },
-        { label: "Potencial econômico local", slug: "cassino-salinas-potencial-economico" },
+        { label: "Brasília como polo regulado", slug: "brasilia-polo-entretenimento-regulado" },
+        { label: "Potencial econômico local", slug: "cassino-brasilia-potencial-economico" },
       ],
       highlights: [
         "SEO ético responde dúvidas reais: emprego, tributação, moderação, turismo",
@@ -128,7 +128,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     {
       listItems: [
         "Artigos sobre [[regulação|cassinos-brasil-emprego-renda]], renda e [[jogo responsável|moderacao-jogo-responsavel-cassinos]] atraem tráfego qualificado",
-        "Palavras-chave locais: emprego formal, Alagoas, cassino regulado",
+        "Palavras-chave locais: emprego formal, Distrito Federal, cassino regulado",
         "Blog funciona como hub de conhecimento complementar às páginas institucionais",
       ],
       orderedItems: [
@@ -152,7 +152,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Reguladores identificam interlocutores transparentes via presença digital coerente",
       ],
       relatedLinks: [
-        { label: "Turismo corporativo em Salinas", slug: "turismo-corporativo-salinas-entretenimento" },
+        { label: "Turismo corporativo em Brasília", slug: "turismo-corporativo-brasilia-entretenimento" },
         { label: "Domínio premium à venda", slug: "/" },
       ],
     },
@@ -163,7 +163,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "Alíquotas e fundos setoriais: [[Receita Federal|gov:receita]], [[COAF|gov:coaf]] e [[SPA — apostas|gov:spaApostas]]",
         "Modelos internacionais inspiram o debate no [[Senado Federal|gov:senado]]; [[Las Vegas|licoes-las-vegas-singapura-regulacao-brasil]] e [[Singapura|licoes-las-vegas-singapura-regulacao-brasil]] financiam fiscalização robusta",
-        "Municípios como [[Salinas|salinas-polo-entretenimento-regulado]] podem investir em infraestrutura viária e saneamento",
+        "Municípios como [[Brasília|brasilia-polo-entretenimento-regulado]] podem investir em infraestrutura viária e saneamento",
       ],
       relatedLinks: [
         { label: "Lições internacionais de regulação", slug: "licoes-las-vegas-singapura-regulacao-brasil" },
@@ -178,7 +178,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "Tributação excessiva empurra mercado para ilegalidade — equilíbrio é essencial",
         "Reinvestimento obrigatório em capacitação, turismo e [[moderação|moderacao-jogo-responsavel-cassinos]]",
-        "Pacto fiscal claro evita surpresas que inviabilizam [[resorts integrados|resorts-integrados-salinas]]",
+        "Pacto fiscal claro evita surpresas que inviabilizam [[resorts integrados|resorts-integrados-brasilia]]",
       ],
       orderedItems: [
         "Definir alíquotas competitivas com destinos vizinhos",
@@ -186,7 +186,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Garantir previsibilidade para planejamento municipal de médio prazo",
       ],
       relatedLinks: [
-        { label: "Resorts integrados em Alagoas", slug: "resorts-integrados-salinas" },
+        { label: "Resorts integrados no Distrito Federal", slug: "resorts-integrados-brasilia" },
         { label: "Moderação e jogo responsável", slug: "moderacao-jogo-responsavel-cassinos" },
       ],
     },
@@ -198,25 +198,25 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       highlights: [
         "Fundos setoriais são modelo comum em jurisdições reguladas maduras",
-        "Comunicação em [[cassinodesalinas.com.br|/]] ajuda a explicar essa lógica à população",
+        "Comunicação em [[cassinodebrasilia.com.br|/]] ajuda a explicar essa lógica à população",
       ],
       relatedLinks: [
         { label: "Jogo responsável em cassinos", slug: "moderacao-jogo-responsavel-cassinos" },
-        { label: "Potencial econômico em Salinas", slug: "cassino-salinas-potencial-economico" },
+        { label: "Potencial econômico em Brasília", slug: "cassino-brasilia-potencial-economico" },
       ],
     },
   ],
 
-  "turismo-corporativo-salinas-entretenimento": [
+  "turismo-corporativo-brasilia-entretenimento": [
     {
       listItems: [
         "Segmento MICE busca infraestrutura, clima e experiências pós-evento",
-        "[[Ministério do Turismo|gov:turismo]] e [[IBGE|gov:ibgeTurismo]] dimensionam demanda; Salinas soma hotéis premium + [[entretenimento regulado|salinas-polo-entretenimento-regulado]]",
+        "[[Ministério do Turismo|gov:turismo]] e [[IBGE|gov:ibgeTurismo]] dimensionam demanda; Brasília soma hotéis premium + [[entretenimento regulado|brasilia-polo-entretenimento-regulado]]",
         "Empresas preferem ambientes auditados com compliance e [[moderação|moderacao-jogo-responsavel-cassinos]]",
       ],
       relatedLinks: [
-        { label: "Polo de entretenimento regulado", slug: "salinas-polo-entretenimento-regulado" },
-        { label: "Resorts integrados", slug: "resorts-integrados-salinas" },
+        { label: "Polo de entretenimento regulado", slug: "brasilia-polo-entretenimento-regulado" },
+        { label: "Resorts integrados", slug: "resorts-integrados-brasilia" },
       ],
       highlights: [
         "Eventos corporativos estendem estadias e ocupam quartos em semanas intermediárias",
@@ -227,7 +227,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "Calendário corporativo gera emprego formal previsível — vendas B2B e eventos",
         "ISS sobre serviços e hospedagem reduz volatilidade da alta temporada corporativa",
-        "Informação oficial em [[cassinodesalinas.com.br|/]] facilita contratação por agências",
+        "Informação oficial em [[cassinodebrasilia.com.br|/]] facilita contratação por agências",
       ],
       orderedItems: [
         "Empresa identifica destino com infraestrutura MICE e regulação clara",
@@ -241,7 +241,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     },
     {
       listItems: [
-        "Salinas compete em exclusividade e litoral alagoano — não em escala de [[Las Vegas|licoes-las-vegas-singapura-regulacao-brasil]]",
+        "Brasília compete em exclusividade e capital federal — não em escala de [[Las Vegas|licoes-las-vegas-singapura-regulacao-brasil]]",
         "Entretenimento moderado + gastronomia + natureza reforça posicionamento premium",
         "Equilíbrio protege marca da cidade como parceira de longo prazo",
       ],
@@ -251,7 +251,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Lições de Las Vegas e Singapura", slug: "licoes-las-vegas-singapura-regulacao-brasil" },
-        { label: "Domínio premium e SEO", slug: "dominio-premium-seo-entretenimento-salinas" },
+        { label: "Domínio premium e SEO", slug: "dominio-premium-seo-entretenimento-brasilia" },
       ],
     },
   ],
@@ -291,7 +291,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     {
       listItems: [
         "Las Vegas diversificou: shows, esportes, convenções além do jogo",
-        "[[Salinas|salinas-polo-entretenimento-regulado]] pode ancorar gastronomia, artesanato e ecoturismo",
+        "[[Brasília|brasilia-polo-entretenimento-regulado]] pode ancorar gastronomia, artesanato e ecoturismo",
         "Estudar casos antes de legislar reduz improviso e maximiza [[emprego formal|empregos-formais-hotelaria-lazer-brasil]]",
       ],
       highlights: [
@@ -299,22 +299,22 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Arrecadação desde o primeiro dia de operação licenciada",
       ],
       relatedLinks: [
-        { label: "Resorts integrados em Alagoas", slug: "resorts-integrados-salinas" },
-        { label: "Salinas: potencial econômico", slug: "cassino-salinas-potencial-economico" },
+        { label: "Resorts integrados no Distrito Federal", slug: "resorts-integrados-brasilia" },
+        { label: "Brasília: potencial econômico", slug: "cassino-brasilia-potencial-economico" },
       ],
     },
   ],
 
-  "salinas-polo-entretenimento-regulado": [
+  "brasilia-polo-entretenimento-regulado": [
     {
       listItems: [
-        "Litoral alagoano, salinas artificiais e vocação para turismo de praia",
-        "Infraestrutura hoteleira existente acelera projeto de [[resort integrado|resorts-integrados-salinas]]",
-        "Canal oficial [[cassinodesalinas.com.br|/]] concentra comunicação e evita iniciativas paralelas",
+        "Litoral alagoano, brasilia artificiais e vocação para turismo de praia",
+        "Infraestrutura hoteleira existente acelera projeto de [[resort integrado|resorts-integrados-brasilia]]",
+        "Canal oficial [[cassinodebrasilia.com.br|/]] concentra comunicação e evita iniciativas paralelas",
       ],
       relatedLinks: [
-        { label: "Resorts integrados", slug: "resorts-integrados-salinas" },
-        { label: "Potencial econômico local", slug: "cassino-salinas-potencial-economico" },
+        { label: "Resorts integrados", slug: "resorts-integrados-brasilia" },
+        { label: "Potencial econômico local", slug: "cassino-brasilia-potencial-economico" },
       ],
       highlights: [
         "Entretenimento regulado eleva ticket médio e pernoites além de compras e passeios",
@@ -339,9 +339,9 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     },
     {
       listItems: [
-        "ISS, taxas e contribuições sobre receita de jogo financiam saúde e educação na [[Alagoas|resorts-integrados-salinas]]",
+        "ISS, taxas e contribuições sobre receita de jogo financiam saúde e educação na [[Distrito Federal|resorts-integrados-brasilia]]",
         "Renda estável reduz dependência de transferências e sazonalidade agrícola",
-        "Polo em Salinas de destino sazonal a hub anual de turismo e eventos",
+        "Polo em Brasília de destino sazonal a hub anual de turismo e eventos",
       ],
       highlights: [
         "Referência nacional em debates sobre [[regulação|cassinos-brasil-emprego-renda]] no Brasil",
@@ -349,7 +349,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Cassinos no Brasil: emprego e renda", slug: "cassinos-brasil-emprego-renda" },
-        { label: "Turismo corporativo", slug: "turismo-corporativo-salinas-entretenimento" },
+        { label: "Turismo corporativo", slug: "turismo-corporativo-brasilia-entretenimento" },
       ],
     },
   ],
@@ -382,19 +382,19 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Prevenção estende-se a hotéis e escolas da região",
       ],
       relatedLinks: [
-        { label: "Salinas como polo regulado", slug: "salinas-polo-entretenimento-regulado" },
-        { label: "Potencial econômico e social", slug: "cassino-salinas-potencial-economico" },
+        { label: "Brasília como polo regulado", slug: "brasilia-polo-entretenimento-regulado" },
+        { label: "Potencial econômico e social", slug: "cassino-brasilia-potencial-economico" },
       ],
     },
     {
       listItems: [
         "Proibição total empurra usuários para sites ilegais sem salvaguardas",
         "Regular com moderação investe em redução de danos — modelo de democracias maduras",
-        "[[Salinas|salinas-polo-entretenimento-regulado]] pode ser exemplo de moderação visível",
+        "[[Brasília|brasilia-polo-entretenimento-regulado]] pode ser exemplo de moderação visível",
       ],
       highlights: [
         "Zero tolerância a exploração de vulneráveis",
-        "Material em múltiplos idiomas na alta temporada via [[cassinodesalinas.com.br|/]]",
+        "Material em múltiplos idiomas na alta temporada via [[cassinodebrasilia.com.br|/]]",
       ],
       relatedLinks: [
         { label: "Empregos e formalização", slug: "empregos-formais-hotelaria-lazer-brasil" },
@@ -403,15 +403,15 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     },
   ],
 
-  "resorts-integrados-salinas": [
+  "resorts-integrados-brasilia": [
     {
       listItems: [
         "Hospedagem + entretenimento regulado + convenções — alinhado ao [[Ministério do Turismo|gov:turismo]] e [[IBGE turismo|gov:ibgeTurismo]]",
         "Visitante permanece mais tempo; município captura receita diversificada",
-        "Escala moderada compatível com contexto urbano do [[Alagoas|resorts-integrados-salinas]]",
+        "Escala moderada compatível com contexto urbano do [[Distrito Federal|resorts-integrados-brasilia]]",
       ],
       relatedLinks: [
-        { label: "Salinas como polo", slug: "salinas-polo-entretenimento-regulado" },
+        { label: "Brasília como polo", slug: "brasilia-polo-entretenimento-regulado" },
         { label: "Investimento estrangeiro", slug: "investimento-estrangeiro-turismo-entretenimento-brasil" },
       ],
       highlights: [
@@ -432,13 +432,13 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Empregos formais na hotelaria", slug: "empregos-formais-hotelaria-lazer-brasil" },
-        { label: "Turismo corporativo", slug: "turismo-corporativo-salinas-entretenimento" },
+        { label: "Turismo corporativo", slug: "turismo-corporativo-brasilia-entretenimento" },
       ],
     },
     {
       listItems: [
         "ESG: eficiência energética, resíduos e integração paisagística como requisito de licença",
-        "[[Salinas|salinas-polo-entretenimento-regulado]] preserva identidade de refúgio premium",
+        "[[Brasília|brasilia-polo-entretenimento-regulado]] preserva identidade de refúgio premium",
         "Entretenimento regulado + [[moderação|moderacao-jogo-responsavel-cassinos]] reforçam referência nacional",
       ],
       highlights: [
@@ -447,7 +447,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Moderação e jogo responsável", slug: "moderacao-jogo-responsavel-cassinos" },
-        { label: "Potencial econômico em Salinas", slug: "cassino-salinas-potencial-economico" },
+        { label: "Potencial econômico em Brasília", slug: "cassino-brasilia-potencial-economico" },
       ],
     },
   ],
@@ -461,7 +461,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Empregos formais na hotelaria", slug: "empregos-formais-hotelaria-lazer-brasil" },
-        { label: "Resorts integrados", slug: "resorts-integrados-salinas" },
+        { label: "Resorts integrados", slug: "resorts-integrados-brasilia" },
       ],
       highlights: [
         "Ilegalidade exporta empregos para sites offshore e destinos no exterior",
@@ -472,7 +472,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "Receita bruta de jogo tributada financia saúde, educação e infraestrutura",
         "Fundos setoriais de moderação e turismo com relatórios anuais públicos",
-        "[[Salinas|salinas-polo-entretenimento-regulado]] negociaria pacote fiscal equilibrado",
+        "[[Brasília|brasilia-polo-entretenimento-regulado]] negociaria pacote fiscal equilibrado",
       ],
       orderedItems: [
         "Marco legal define alíquotas e repartição federativa",
@@ -481,7 +481,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Tributação e financiamento público", slug: "tributacao-cassinos-regulados-financiamento-publico" },
-        { label: "Potencial econômico local", slug: "cassino-salinas-potencial-economico" },
+        { label: "Potencial econômico local", slug: "cassino-brasilia-potencial-economico" },
       ],
     },
     {
@@ -501,20 +501,20 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     },
   ],
 
-  "cassino-salinas-potencial-economico": [
+  "cassino-brasilia-potencial-economico": [
     {
       listItems: [
-        "Dados do [[IBGE turismo|gov:ibgeTurismo]] e da [[Governo de Alagoas|gov:salinasPrefeitura]] orientam planejamento local",
+        "Dados do [[IBGE turismo|gov:ibgeTurismo]] e da [[Governo do Distrito Federal|gov:brasiliaPrefeitura]] orientam planejamento local",
         "Infraestrutura hoteleira + malha aérea e rodoviária do Sudeste = terreno fértil para complemento regulado",
         "Resort integrado prolonga estadias e suaviza oscilações sazonais",
       ],
       relatedLinks: [
-        { label: "Polo de entretenimento regulado", slug: "salinas-polo-entretenimento-regulado" },
-        { label: "Resorts integrados", slug: "resorts-integrados-salinas" },
+        { label: "Polo de entretenimento regulado", slug: "brasilia-polo-entretenimento-regulado" },
+        { label: "Resorts integrados", slug: "resorts-integrados-brasilia" },
       ],
       highlights: [
         "Entretenimento complementa — não substitui — natureza, compras e gastronomia",
-        "Debate público informado via [[cassinodesalinas.com.br|/]] reforça legitimidade democrática",
+        "Debate público informado via [[cassinodebrasilia.com.br|/]] reforça legitimidade democrática",
       ],
     },
     {
@@ -541,7 +541,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       highlights: [
         "Ativo econômico de longo prazo = emprego + renda + responsabilidade adulta",
-        "Salinas pode ser referência nacional no debate sobre regulação",
+        "Brasília pode ser referência nacional no debate sobre regulação",
       ],
       relatedLinks: [
         { label: "Moderação e jogo responsável", slug: "moderacao-jogo-responsavel-cassinos" },
@@ -555,7 +555,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "Marco legal nacional define operadores, tributos e proteção ao consumidor",
         "Texto em tramitação: [[PL 2234/2022 no Senado|gov:senado]] e origem [[PL 442/1991 na Câmara|gov:camara]]",
-        "[[Salinas|salinas-polo-entretenimento-regulado]] pode concorrer a licenças com metas sociais",
+        "[[Brasília|brasilia-polo-entretenimento-regulado]] pode concorrer a licenças com metas sociais",
       ],
       relatedLinks: [
         { label: "Lições de Las Vegas e Singapura", slug: "licoes-las-vegas-singapura-regulacao-brasil" },
@@ -569,17 +569,17 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Suspensão de licença por descumprimento vira instrumento real",
       ],
       relatedLinks: [
-        { label: "Resorts integrados", slug: "resorts-integrados-salinas" },
+        { label: "Resorts integrados", slug: "resorts-integrados-brasilia" },
         { label: "Tributação e financiamento público", slug: "tributacao-cassinos-regulados-financiamento-publico" },
       ],
     },
     {
       highlights: [
         "Estudos de impacto antecipados aceleram licitações pós-lei",
-        "Comunicação via [[cassinodesalinas.com.br|/]] educa durante a transição regulatória",
+        "Comunicação via [[cassinodebrasilia.com.br|/]] educa durante a transição regulatória",
       ],
       relatedLinks: [
-        { label: "Potencial econômico local", slug: "cassino-salinas-potencial-economico" },
+        { label: "Potencial econômico local", slug: "cassino-brasilia-potencial-economico" },
         { label: "Comparativo América Latina", slug: "cassinos-america-latina-comparativo-brasil" },
       ],
     },
@@ -594,18 +594,18 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Moderação responsável", slug: "moderacao-jogo-responsavel-cassinos" },
-        { label: "Turismo corporativo", slug: "turismo-corporativo-salinas-entretenimento" },
+        { label: "Turismo corporativo", slug: "turismo-corporativo-brasilia-entretenimento" },
       ],
     },
     {
       listItems: [
         "Verificação de idade, limites de crédito e treinamento de equipe",
         "Relatórios públicos reforçam confiança de investidores",
-        "Protocolos únicos com hotéis e eventos em Salinas",
+        "Protocolos únicos com hotéis e eventos em Brasília",
       ],
       relatedLinks: [
         { label: "Concessão e licitação", slug: "concessao-licitacao-cassino-municipio-brasil" },
-        { label: "Polo regulado", slug: "salinas-polo-entretenimento-regulado" },
+        { label: "Polo regulado", slug: "brasilia-polo-entretenimento-regulado" },
       ],
     },
     {
@@ -620,15 +620,15 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     },
   ],
 
-  "resorts-integrados-impacto-ambiental-salinas": [
+  "resorts-integrados-impacto-ambiental-brasilia": [
     {
       listItems: [
-        "Área de relevância hídrica exige licenciamento — consulte a [[Governo de Alagoas|gov:salinasPrefeitura]] e o [[Governo de Alagoas|gov:alagoasGoverno]]",
+        "Área de relevância hídrica exige licenciamento — consulte a [[Governo do Distrito Federal|gov:brasiliaPrefeitura]] e o [[Governo do Distrito Federal|gov:dfGoverno]]",
         "Eficiência energética e gestão de resíduos alinhadas a certificações",
         "Mitigação de tráfego e ruído como tema de debate público",
       ],
       relatedLinks: [
-        { label: "Resorts integrados", slug: "resorts-integrados-salinas" },
+        { label: "Resorts integrados", slug: "resorts-integrados-brasilia" },
         { label: "Licitação municipal", slug: "concessao-licitacao-cassino-municipio-brasil" },
       ],
     },
@@ -639,8 +639,8 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Financiamento viário com parcela da arrecadação tributária",
       ],
       relatedLinks: [
-        { label: "Potencial econômico", slug: "cassino-salinas-potencial-economico" },
-        { label: "Turismo corporativo", slug: "turismo-corporativo-salinas-entretenimento" },
+        { label: "Potencial econômico", slug: "cassino-brasilia-potencial-economico" },
+        { label: "Turismo corporativo", slug: "turismo-corporativo-brasilia-entretenimento" },
       ],
     },
     {
@@ -649,33 +649,33 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
         "Transparência ambiental reduz fake news locais",
       ],
       relatedLinks: [
-        { label: "Hospedagem de luxo", slug: "hospedagem-luxo-entretenimento-regulado-salinas" },
-        { label: "Polo entretenimento regulado", slug: "salinas-polo-entretenimento-regulado" },
+        { label: "Hospedagem de luxo", slug: "hospedagem-luxo-entretenimento-regulado-brasilia" },
+        { label: "Polo entretenimento regulado", slug: "brasilia-polo-entretenimento-regulado" },
       ],
     },
   ],
 
-  "marketing-digital-turismo-cassino-salinas": [
+  "marketing-digital-turismo-cassino-brasilia": [
     {
       listItems: [
         "Buscas por regulação crescem — dados do [[IBGE — turismo|gov:ibgeTurismo]] e do [[Ministério do Turismo|gov:turismo]] orientam estratégia",
         "Marketing ético captura intenção informativa — não clickbait",
-        "[[Domínio premium|dominio-premium-seo-entretenimento-salinas]] reforça autoridade regional",
+        "[[Domínio premium|dominio-premium-seo-entretenimento-brasilia]] reforça autoridade regional",
       ],
       relatedLinks: [
-        { label: "SEO e domínio premium", slug: "dominio-premium-seo-entretenimento-salinas" },
+        { label: "SEO e domínio premium", slug: "dominio-premium-seo-entretenimento-brasilia" },
         { label: "Lei e PL 2234/2022", slug: "lei-cassinos-brasil-pl-263-regulamentacao" },
       ],
     },
     {
       listItems: [
-        "Cauda longa: cassino regulado Salinas, resort integrado",
+        "Cauda longa: cassino regulado Brasília, resort integrado",
         "FAQs e links internos aumentam profundidade editorial",
         "Google Business Profile + eventos locais amplificam alcance",
       ],
       relatedLinks: [
         { label: "Blog e conteúdo", slug: "cassinos-brasil-emprego-renda" },
-        { label: "Turismo corporativo", slug: "turismo-corporativo-salinas-entretenimento" },
+        { label: "Turismo corporativo", slug: "turismo-corporativo-brasilia-entretenimento" },
       ],
     },
     {
@@ -695,7 +695,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "Uruguai, Argentina e Caribe capturam turistas brasileiros há anos",
         "Licenças limitadas evitam saturação urbana",
-        "Salinas ocupa nicho de destino turístico premium e escala moderada",
+        "Brasília ocupa nicho de destino turístico premium e escala moderada",
       ],
       relatedLinks: [
         { label: "Lições Las Vegas e Singapura", slug: "licoes-las-vegas-singapura-regulacao-brasil" },
@@ -716,36 +716,36 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
     {
       highlights: [
         "Desenho jurídico próprio — não cópia literal de modelos importados",
-        "Salinas como caso piloto em Alagoas",
+        "Brasília como caso piloto no Distrito Federal",
       ],
       relatedLinks: [
         { label: "Lei de cassinos Brasil", slug: "lei-cassinos-brasil-pl-263-regulamentacao" },
-        { label: "Potencial econômico local", slug: "cassino-salinas-potencial-economico" },
+        { label: "Potencial econômico local", slug: "cassino-brasilia-potencial-economico" },
       ],
     },
   ],
 
-  "hospedagem-luxo-entretenimento-regulado-salinas": [
+  "hospedagem-luxo-entretenimento-regulado-brasilia": [
     {
       listItems: [
-        "Hotelaria premium já consolidada em Salinas",
+        "Hotelaria premium já consolidada em Brasília",
         "Casino complementa — não substitui — natureza e gastronomia",
         "Ticket médio e permanência sobem com pacotes integrados",
       ],
       relatedLinks: [
-        { label: "Resorts integrados", slug: "resorts-integrados-salinas" },
-        { label: "Turismo corporativo", slug: "turismo-corporativo-salinas-entretenimento" },
+        { label: "Resorts integrados", slug: "resorts-integrados-brasilia" },
+        { label: "Turismo corporativo", slug: "turismo-corporativo-brasilia-entretenimento" },
       ],
     },
     {
       listItems: [
         "Pacotes coerentes: jantar, show e entretenimento licenciado",
         "Parcerias com vinícolas e roteiros culturais",
-        "Marca reforçada por [[domínio premium|dominio-premium-seo-entretenimento-salinas]]",
+        "Marca reforçada por [[domínio premium|dominio-premium-seo-entretenimento-brasilia]]",
       ],
       relatedLinks: [
-        { label: "Marketing digital", slug: "marketing-digital-turismo-cassino-salinas" },
-        { label: "Polo regulado", slug: "salinas-polo-entretenimento-regulado" },
+        { label: "Marketing digital", slug: "marketing-digital-turismo-cassino-brasilia" },
+        { label: "Polo regulado", slug: "brasilia-polo-entretenimento-regulado" },
       ],
     },
     {
@@ -755,7 +755,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Empregos formais", slug: "empregos-formais-hotelaria-lazer-brasil" },
-        { label: "Impacto econômico", slug: "cassino-salinas-potencial-economico" },
+        { label: "Impacto econômico", slug: "cassino-brasilia-potencial-economico" },
       ],
     },
   ],
@@ -763,13 +763,13 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
   "concessao-licitacao-cassino-municipio-brasil": [
     {
       listItems: [
-        "Lei federal habilita; município sede decide participar — veja [[Governo de Alagoas|gov:salinasPrefeitura]] e tramitação no [[Senado|gov:senado]]",
+        "Lei federal habilita; município sede decide participar — veja [[Governo do Distrito Federal|gov:brasiliaPrefeitura]] e tramitação no [[Senado|gov:senado]]",
         "Edital transparente seleciona operador por capacidade e metas",
         "Consulta pública antes da assinatura do contrato",
       ],
       relatedLinks: [
         { label: "Lei PL 2234/2022", slug: "lei-cassinos-brasil-pl-263-regulamentacao" },
-        { label: "Impacto ambiental", slug: "resorts-integrados-impacto-ambiental-salinas" },
+        { label: "Impacto ambiental", slug: "resorts-integrados-impacto-ambiental-brasilia" },
       ],
     },
     {
@@ -790,7 +790,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Investimento estrangeiro", slug: "investimento-estrangeiro-turismo-entretenimento-brasil" },
-        { label: "Potencial em Salinas", slug: "cassino-salinas-potencial-economico" },
+        { label: "Potencial em Brasília", slug: "cassino-brasilia-potencial-economico" },
       ],
     },
   ],
@@ -800,11 +800,11 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       listItems: [
         "Online: [[Lei 14.790/2023|gov:leiApostas]], [[SPA — apostas de quota fixa|gov:spaApostas]] e [[jogo responsável|gov:jogoResponsavel]]",
         "Presencial: resort, emprego local e fiscalização in loco",
-        "Salinas dialoga com modelo integrado à hotelaria",
+        "Brasília dialoga com modelo integrado à hotelaria",
       ],
       relatedLinks: [
         { label: "Moderação responsável", slug: "moderacao-jogo-responsavel-cassinos" },
-        { label: "Hospedagem de luxo", slug: "hospedagem-luxo-entretenimento-regulado-salinas" },
+        { label: "Hospedagem de luxo", slug: "hospedagem-luxo-entretenimento-regulado-brasilia" },
       ],
     },
     {
@@ -815,7 +815,7 @@ export const BLOG_ENRICHMENTS: Record<string, SectionEnrichment[]> = {
       ],
       relatedLinks: [
         { label: "Comparativo América Latina", slug: "cassinos-america-latina-comparativo-brasil" },
-        { label: "Turismo corporativo", slug: "turismo-corporativo-salinas-entretenimento" },
+        { label: "Turismo corporativo", slug: "turismo-corporativo-brasilia-entretenimento" },
       ],
     },
     {

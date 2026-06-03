@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Cassino de Salinas dominio premium cassinodesalinas.com.br a venda">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Cassino de Brasília dominio premium cassinodebrasilia.com.br a venda">
   <defs>
     <linearGradient id="bg" x1="600" y1="0" x2="600" y2="630" gradientUnits="userSpaceOnUse">
       <stop stop-color="#141210"/>
@@ -18,12 +18,12 @@
   <rect x="420" y="52" width="360" height="36" rx="18" fill="#1a1814" stroke="#c9a227" stroke-opacity="0.45"/>
   <text x="600" y="76" text-anchor="middle" fill="#e8d49a" font-family="Georgia, serif" font-size="13" letter-spacing="3">ATIVO DIGITAL PREMIUM</text>
   <text x="600" y="200" text-anchor="middle" fill="#f5f0e6" font-family="Georgia, serif" font-size="52" font-weight="600">Dominio Premium a Venda</text>
-  <text x="600" y="280" text-anchor="middle" fill="url(#gold)" font-family="Georgia, serif" font-size="44" font-style="italic">cassinodesalinas.com.br</text>
+  <text x="600" y="280" text-anchor="middle" fill="url(#gold)" font-family="Georgia, serif" font-size="44" font-style="italic">cassinodebrasilia.com.br</text>
   <text x="600" y="360" text-anchor="middle" fill="#b8b0a0" font-family="Arial, sans-serif" font-size="22">
-    <tspan x="600" dy="0">Turismo, entretenimento e hotelaria em Salinas</tspan>
-    <tspan x="600" dy="32">Cassino regulado em Alagoas</tspan>
+    <tspan x="600" dy="0">Turismo, entretenimento e hotelaria em Brasília</tspan>
+    <tspan x="600" dy="32">Cassino regulado no Distrito Federal</tspan>
   </text>
   <rect x="510" y="420" width="180" height="48" rx="8" fill="url(#gold)"/>
   <text x="600" y="452" text-anchor="middle" fill="#1a1208" font-family="Arial, sans-serif" font-size="18" font-weight="700">Enviar Oferta</text>
-  <text x="600" y="598" text-anchor="middle" fill="#7a7468" font-family="Arial, sans-serif" font-size="16">Cassino de Salinas</text>
+  <text x="600" y="598" text-anchor="middle" fill="#7a7468" font-family="Arial, sans-serif" font-size="16">Cassino de Brasília</text>
 </svg>
