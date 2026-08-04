@@ -1,5 +1,6 @@
 # Cloudflare Pages — TanStack Start + Nitro (preset cloudflare_pages)
-# Build: npm run build  →  pasta de saída: dist
+# Build: npm run build  →  dist/ com HTML estático pré-renderizado
+# O Worker só é usado como fallback (404); páginas normais não consomem solicitações.
 name = "brasilia"
 compatibility_date = "2024-09-19"
 compatibility_flags = ["nodejs_compat"]

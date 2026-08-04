@@ -1,1 +1,2 @@
-# Fallback para SPA/SSR — o worker em dist/_worker.js trata as rotas dinâmicas
+# Páginas HTML são servidas como arquivos estáticos pré-renderizados.
+# O Worker só trata rotas não encontradas (404) e fallback SPA.
